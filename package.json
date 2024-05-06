@@ -3,5 +3,9 @@
     "@types/node": "^20.12.8",
     "eslint": "^8.57.0",
     "eslint-config-react-app": "^7.0.1"
+  },
+  "dependencies": {
+    "recharts": "^2.12.6",
+    "regression": "^2.0.1"
   }
 }
